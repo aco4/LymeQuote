@@ -13,42 +13,42 @@
 <button type="button" onclick="increasePumpkins(1)">press me to gain pumpkins</button>
 <button type="button" onclick="multiplyPumpkins(2)">press me to double pumpkins</button>
 <script>
-    var pumpkins = 0;
-    var happiness = ":";
-    function updatePumpkinHappiness() {
-        happiness = ":";
-        if (pumpkins == 0) {
-            happiness = ":("
-        }
-        for (let i = 0; i < pumpkins; i++) {
-            happiness = happiness + ")";
-        }
-        if (pumpkins == 69) {
-            happiness = "ha";
-        }
+var pumpkins = 0;
+var happiness = ":";
+function updatePumpkinHappiness() {
+    happiness = ":";
+    if (pumpkins == 0) {
+        happiness = ":("
     }
-    function updatePumpkinCounter() {
-        if (pumpkins < 100000) {
-            updatePumpkinHappiness();
-        }
-        pumpkinDirectObject = " pumpkins. ";
-        if (pumpkins == 1) {
-            pumpkinDirectObject = " pumpkin. ";
-        }
-        document.getElementById("pumpkin_counter").innerHTML = "You have " + pumpkins + pumpkinDirectObject + happiness;
+    for (let i = 0; i < pumpkins; i++) {
+        happiness = happiness + ")";
     }
-    function setPumpkins(amount) {
-        pumpkins = amount;
-        updatePumpkinCounter();
+    if (pumpkins == 69) {
+        happiness = "ha";
     }
-    function increasePumpkins(amount) {
-        pumpkins += amount;
-        updatePumpkinCounter();
+}
+function updatePumpkinCounter() {
+    if (pumpkins < 100000) {
+        updatePumpkinHappiness();
     }
-    function multiplyPumpkins(amount) {
-        pumpkins *= amount;
-        updatePumpkinCounter();
+    pumpkinDirectObject = " pumpkins. ";
+    if (pumpkins == 1) {
+        pumpkinDirectObject = " pumpkin. ";
     }
+    document.getElementById("pumpkin_counter").innerHTML = "You have " + pumpkins + pumpkinDirectObject + happiness;
+}
+function setPumpkins(amount) {
+    pumpkins = amount;
+    updatePumpkinCounter();
+}
+function increasePumpkins(amount) {
+    pumpkins += amount;
+    updatePumpkinCounter();
+}
+function multiplyPumpkins(amount) {
+    pumpkins *= amount;
+    updatePumpkinCounter();
+}
 </script>
 
 You can use the [editor on GitHub](https://github.com/aco4/LymeQuote/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
