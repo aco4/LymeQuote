@@ -35,7 +35,8 @@ function updatePumpkinCounter() {
     if (pumpkins == 1) {
         pumpkinDirectObject = " pumpkin. ";
     }
-    document.getElementById("pumpkin_counter").innerHTML = "You have " + pumpkins + pumpkinDirectObject + happiness;
+    alert("You have " + pumpkins + pumpkinDirectObject + happiness);
+    // document.getElementById("pumpkin_counter").innerHTML = "You have " + pumpkins + pumpkinDirectObject + happiness;
 }
 function setPumpkins(amount) {
     pumpkins = amount;
