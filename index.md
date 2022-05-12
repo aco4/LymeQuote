@@ -1,5 +1,6 @@
 ## Welcome to LymeQuote
 
+<script>document.write("This is infuriating")</script>
 <div>TESTING!</div>
 <p>Here are some buttons</p>
 <button type="button" onclick="alert('hello world')">Epic Button</button>
