@@ -7,7 +7,7 @@
 <p>They are satisfying, yes? •⌣•</p>
 
 <button onClick="random_quote()">Quote!</button>
-
+<div id="quote">text</div>
 
 <script>
 class Quote {
