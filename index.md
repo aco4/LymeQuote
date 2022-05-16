@@ -50,7 +50,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       index = Math.floor(Math.random() * quotes.length);
     }
   
-    document.write(quotes[index].text + quotes[index].author + quotes[index].date);
+    // document.write(quotes[index].text + quotes[index].author + quotes[index].date);
 
     quote = quotes[index].text;
   
