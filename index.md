@@ -23,7 +23,8 @@ quotes = [
     new Quote("Why is the medical community complacently treating patients with inflammatory autoimmune diseases with immunosuppresives when these drugs only treat symptoms — not root cause — and put patients at greater risk for developing potentially life-threatening opportunistic infections and cancers?", "Neil Spector, MD"),
     new Quote("Three things cannot long be hidden: the sun, the moon, and the truth.","Buddha"),
     new Quote("Wisdom begins in wonder.","Socrates"),
-    new Quote("Can't fly an airplane while looking down","Logan Bennett")
+    new Quote("Can't fly an airplane while looking down","Logan Bennett"),
+    new Quote("Minh hates Julia Crazy","Minh Tran")
   ]
 
 function print_quotes() {
