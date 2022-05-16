@@ -25,7 +25,8 @@ quotes = [
     new Quote("Wisdom begins in wonder.","Socrates"),
     new Quote("Can't fly an airplane while looking down","Logan Bennett"),
     new Quote("Big fat hairy deal","Garfield"),
-    new Quote("allah cat allah cat","allah cat")
+    new Quote("allah cat allah cat","allah cat"),
+    new Quote("THEY HIT THE PENTAGON", "Zach Hadel")
   ]
 
 function print_quotes() {
