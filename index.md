@@ -1,13 +1,6 @@
 ## Welcome to LymeQuote
 
-<p>Here are some buttons</p>
-<button type="button" onclick="alert('hello world')">Epic Button</button>
-<button type="button" onclick="alert('pinged lmao')">The Epicer Button</button>
-<button type="button" onclick="alert('+1000000 social credit points (>◡◔✿)')">press if taiwan is not a country</button>
-<p>They are satisfying, yes? •⌣•</p>
-
-<button onClick="random_quote()">Quote!</button>
-<!-- <div id="quote">text</div> -->
+LymeQuote is a project created for the Biomedical Science program at Bel Air High School.
 
 <script>
 class Quote {
