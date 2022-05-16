@@ -64,7 +64,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       quote = quote + ", " + quotes[index].date;
     }
   
-    quote = quote + "<br>";
+    // quote = quote + "<br>";
   
     document.getElementById("quote").innerHTML = quote;
   
