@@ -23,7 +23,8 @@ quotes = [
     // new Quote("THEY HIT THE PENTAGON", "Zach Hadel", null),
     new Quote("Millions of people worldwide suffer from autoimmune disease and chronic illness. What is fueling this 21st-century pandemic?", null, 2020),
     new Quote("Matt loves skin", "Anthony Gu", 2022),
-    new Quote("Early bird gets the worm")
+    new Quote("Early bird gets the worm"),
+    new Quote("It is only when mosquito land on your balls that you realize there is a way to solve problems without using violence.", "Confucius")
   ]
 
 function print_quotes() {
@@ -45,12 +46,12 @@ function random_quote() {
 
   if (quotes[index.author] != null) {
     quote = quote + " — " + quotes[index.author];
+  } else {
+    quote = quote + " —  Unknown";
   }
 
   if (quotes[index.date] != null) {
     quote = quote + ", " + quotes[index.date];
-  } else {
-    quote = quote + ", Unknown";
   }
 
   quote = quote + "<br>";
