@@ -24,6 +24,7 @@ quotes = [
     new Quote("Three things cannot long be hidden: the sun, the moon, and the truth.","Buddha"),
     new Quote("Wisdom begins in wonder.","Socrates"),
     new Quote("Can't fly an airplane while looking down","Logan Bennett"),
+    new Quote("Big fat hairy deal","Garfield")
   ]
 
 function print_quotes() {
