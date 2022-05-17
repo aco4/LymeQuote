@@ -29,15 +29,16 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("Three things cannot long be hidden: the sun, the moon, and the truth.","Buddha"),
       new Quote("Wisdom begins in wonder.","Socrates"),
       new Quote("Can't fly an airplane while looking down","Logan Bennett"),
-      new Quote("Big fat hairy deal","Garfield"),
+      new Quote("Big fat hairy deal lasagna time funny large orange cat","Garfield"),
       new Quote("allah cat allah cat","allah cat"),
       new Quote("THEY HIT THE PENTAGON", "Zach Hadel"),
       new Quote("Millions of people worldwide suffer from autoimmune disease and chronic illness. What is fueling this 21st-century pandemic?", null, 2020),
       new Quote("Matt loves skin", "Anthony Gu", 2022),
-      new Quote("Early bird gets the worm"),
+      new Quote("Early bird gets the worm, but I am wolf not lion or tiger, I don't perform in circus", "Rich Richman McRibRicher", 1999),
       new Quote("It is only when mosquito land on your balls that you realize there is a way to solve problems without using violence.", "Confucius"),
       new Quote("It is better to be hated for who you are then love for who you're not.","Kurt Cobain"),
-      new Quote("Squangle beedorp wingle jangle bango bongo your dad is now lady", "Matthew Schulte", 2022, "Haha loser u got trolled ur dad is actually man still quangle dongle i will find your location and fondle")
+      new Quote("Squangle beedorp wingle jangle bango bongo dagy your dad is now lady", "Matthew Schulte", 2022, "Haha loser u got trolled ur dad is actually man still quangle dongle i will find your location and fondle"),
+      new Quote("I'm not a senior yet; however, ", "Gabe Newell", 2022, "I should have burned this place down while I had the chance")
     ]
   
   function print_quotes() {
