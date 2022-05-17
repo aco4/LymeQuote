@@ -47,7 +47,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("We accept the love we think we deserve.", "Stephen Chbosky, The Perks of Being a Wallflower"),
       new Quote("Without music, life would be a mistake.", "Friedrich Nietzsche, Twilight of the Idols"),
       new Quote("I am so clever that sometimes I don't understand a single word of what I am saying.", "Oscar Wilde, The Happy Prince and Other Stories"),
-      new Quote("To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.", "Ralph Waldo Emerson")
+      new Quote("To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.", "Ralph Waldo Emerson"),
 
       new Quote("Can't fly an airplane while looking down","Logan Bennett"),
       new Quote("Big fat hairy deal lasagna time funny large orange cat","Garfield"),
