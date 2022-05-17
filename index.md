@@ -46,7 +46,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("It is only when mosquito land on your balls that you realize there is a way to solve problems without using violence.", "Confucius"),
       new Quote("I'd rather be loved for who I am than loved for who I am not.", "Kurt Cobain"),
       new Quote("Squangle beedorp wingle jangle bango bongo dagy your dad is now lady", "Matthew Schulte", 2022, "Haha loser u got trolled ur dad is actually man still quangle dongle i will find your location and fondle"),
-      new Quote("I'm not a senior yet; however,", "Gabe Newell", 2022, "I should have burned this place down while I had the chance")
+      new Quote("I'm not a senior yet; however,", "Gabe Newell", 2022, "I should have burned this place down while I had the chance"),
       new Quote(
         "I miss the mask because I could say whatever I wanted to say and nobody could see me say it.",
         "Mr. Benfield",
