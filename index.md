@@ -66,7 +66,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
         "Thanks to climate change, disease-carrying bugs have exploded in number and spread to places they could not have previously survived. For example, ticks, 50% of which carry pathogens (Dr. Steven Philips, MD). Ticks are especially dangerous for their likelihood to cause Lyme disease, a complex and poorly understood disease that can then cause autoimmune reactions. To read more about Lyme disease and its link to autoimmune disorders, read Dr. Steven Philips' novel, 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Health Again'."
         ),
       new Quote(
-        "[Jeffrey Wigand] became an informant for the media in the mid-1990s, exposing how Big Tobacco made their products so addictive and doggedly promoted them knowing they were addictive and carcinogenic.",
+        "[Jeffrey Wigand] became an informant for the media in the mid-1990s, exposing how Big Tobacco... promoted [cigarettes] knowing they were addictive and carcinogenic.",
         "Dr. Steven Philips and Dana Parish",
         2020,
         "There is compelling evidence that Lyme disease is also the source of chronic disorders such as autoimmune conditions. Dr. Steven Philips, MD and Dana Parish explore this topic in their novel, 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again'. One of their main topics is how the medical community shuns and silences Lyme disease and its victims. Why? Because immunosuppresants are expensive — and profitable."
