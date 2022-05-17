@@ -31,6 +31,24 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("Those who do not remember the past are condemned to repeat it.", "George Santayana"),
       new Quote("It is foolish to be convinced without evidence, but it is equally foolish to refuse to be convinced by real evidence", "Upton Sinclair"),
 
+      new Quote("Be yourself; everyone else is already taken.", "Oscar Wilde"),
+      new Quote("I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.", "Marilyn Monroe"),
+      new Quote("Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.", "Albert Einstein"),
+      new Quote("Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.", "Bernard M. Baruch"),
+      new Quote("“You only live once, but if you do it right, once is enough.", "Mae West"),
+      new Quote("Be the change that you wish to see in the world.", "Mahatma Gandhi"),
+      new Quote("In three words I can sum up everything I've learned about life: it goes on.", "Robert Frost"),
+      new Quote("If you tell the truth, you don't have to remember anything.", "Mark Twain"),
+      new Quote("I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.", "Maya Angelou"),
+      new Quote("A friend is someone who knows all about you and still loves you.", "Elbert Hubbard"),
+      new Quote("To live is the rarest thing in the world. Most people exist, that is all.", "Oscar Wilde"),
+      new Quote("Always forgive your enemies; nothing annoys them so much.", "Oscar Wilde"),
+      new Quote("Live as if you were to die tomorrow. Learn as if you were to live forever.", "Mahatma Gandhi"),
+      new Quote("We accept the love we think we deserve.", "Stephen Chbosky, The Perks of Being a Wallflower"),
+      new Quote("Without music, life would be a mistake.", "Friedrich Nietzsche, Twilight of the Idols"),
+      new Quote("I am so clever that sometimes I don't understand a single word of what I am saying.", "Oscar Wilde, The Happy Prince and Other Stories"),
+      new Quote("To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.", "Ralph Waldo Emerson")
+
       new Quote("Can't fly an airplane while looking down","Logan Bennett"),
       new Quote("Big fat hairy deal lasagna time funny large orange cat","Garfield"),
       new Quote("allah cat allah cat","allah cat"),
@@ -84,7 +102,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
         "Lyme disease has been reported in all 50 states except Hawaii. Additionally, Lyme disease is not just a \"tick-borne illness\"; it can also be transmitted via fleas, lice, sand flies, spiders, ants, even cat scratches/bites. Dr. Steven Philips and Dana Parish explore Lyme disease further in their eye-opening novel, 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again'"
       ),
       new Quote(
-        "Semantics guide care",
+        "Semantics guide care.",
         "Dr. Steven Philips and Dana Parish",
         2020,
         "This quote was excerpted from a novel titled 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again.' This novel reveals many truths about Lyme disease, including the truth about \"Post-Treatment Lyme Disease Syndrome.\" The particular word choice of this phrase suggests that the symptoms after short-term Lyme therapy are not caused by an ongoing, unkilled infection — which is not the truth."
