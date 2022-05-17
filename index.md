@@ -18,7 +18,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       }
   
       if (description != null) {
-        this.description = Number(description);
+        this.description = String(description);
       }
     }
   }
