@@ -44,9 +44,9 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("To live is the rarest thing in the world. Most people exist, that is all.", "Oscar Wilde"),
       new Quote("Always forgive your enemies; nothing annoys them so much.", "Oscar Wilde"),
       new Quote("Live as if you were to die tomorrow. Learn as if you were to live forever.", "Mahatma Gandhi"),
-      new Quote("We accept the love we think we deserve.", "Stephen Chbosky, The Perks of Being a Wallflower"),
-      new Quote("Without music, life would be a mistake.", "Friedrich Nietzsche, Twilight of the Idols"),
-      new Quote("I am so clever that sometimes I don't understand a single word of what I am saying.", "Oscar Wilde, The Happy Prince and Other Stories"),
+      new Quote("We accept the love we think we deserve.", "Stephen Chbosky", null, "From The Perks of Being a Wallflower"),
+      new Quote("Without music, life would be a mistake.", "Friedrich Nietzsche", null, "From Twilight of the Idols"),
+      new Quote("I am so clever that sometimes I don't understand a single word of what I am saying.", "Oscar Wilde", "From The Happy Prince and Other Stories"),
       new Quote("To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.", "Ralph Waldo Emerson"),
 
       new Quote("Can't fly an airplane while looking down","Logan Bennett"),
@@ -56,7 +56,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("Matt loves skin", "Anthony Gu", 2022),
       new Quote("Early bird gets the worm, but I am wolf not lion or tiger, I don't perform in circus", "Rich Richman McRibRicher", 1999),
       new Quote("It is only when mosquito land on your balls that you realize there is a way to solve problems without using violence.", "Confucius"),
-      new Quote("I'd rather be loved for who I am than loved for who I am not.", "Kurt Cobain"),
+      new Quote("I'd rather be hated for who I am than loved for who I am not.", "Kurt Cobain"),
       new Quote("Squangle beedorp wingle jangle bango bongo dagy your dad is now lady", "Matthew Schulte", 2022, "Haha loser u got trolled ur dad is actually man still quangle dongle i will find your location and fondle"),
       new Quote("I'm not a senior yet; however,", "Gabe Newell", 2022, "I should have burned this place down while I had the chance"),
       new Quote(
@@ -67,6 +67,8 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       ),
       new Quote("I was happy yesterday because I did not take a picture with crazy Julia for Human Encyclopedia.", "Minh Tran", 2022, "Julia Krazcek does not know anything except for classical music, literature, and diabetes."),
       new Quote("High school is a mega-pint of boring", "Josh Birch", 2022),
+      new Quote("Sometimes, you just got to send it.", "Ryan Kohler", 2022),
+      new Quote("Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.", "Master Oogway", null, "From Kung Fu Panda")
 
       new Quote(
         "Millions of people worldwide suffer from autoimmune disease and chronic illness. What is fueling this 21st-century pandemic?",
