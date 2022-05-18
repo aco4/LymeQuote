@@ -65,7 +65,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
         2022,
         "That's what the purpose of the mask is."
       ),
-      new Quote("I was happy yesterday because I did not take a picture with crazy Julia for Human Encyclopedia.", "Minh Tran", 2022, "Julia Krazcek does not know anything except for classical music, literature, and diabetes.")
+      new Quote("I was happy yesterday because I did not take a picture with crazy Julia for Human Encyclopedia.", "Minh Tran", 2022, "Julia Krazcek does not know anything except for classical music, literature, and diabetes."),
 
       new Quote(
         "Millions of people worldwide suffer from autoimmune disease and chronic illness. What is fueling this 21st-century pandemic?",
