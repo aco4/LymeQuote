@@ -3,7 +3,7 @@
 LymeQuote is a project created for the Biomedical Science program at Bel Air High School.
 
 
-<script type="text/javascript" src="./quotes.js"></script>
+<script type="text/javascript" src="quotes.js"></script>
 
 <script>
   var index
@@ -35,6 +35,6 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
     document.getElementById("quote").innerHTML = quote;
     document.getElementById("description").innerHTML = description;
   }
-  
+
   random_quote();
 </script>

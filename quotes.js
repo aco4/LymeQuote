@@ -48,11 +48,31 @@ quotes =
         "author": "Marilyn Monroe",
         "date": null,
         "description": null
+    },
+    {
+        "text": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+        "author": "Albert Einstein",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+        "author": "Bernard M. Baruch",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "You only live once, but if you do it right, once is enough.",
+        "author": "Mae West",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "Be the change that you wish to see in the world.",
+        "author": "Mahatma Gandhi",
+        "date": null,
+        "description": null
     }
-    //   {"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.", "Albert Einstein"}
-    //   {"Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.", "Bernard M. Baruch"}
-    //   {"“You only live once, but if you do it right, once is enough.", "Mae West"}
-    //   {"Be the change that you wish to see in the world.", "Mahatma Gandhi"}
     //   {"In three words I can sum up everything I've learned about life: it goes on.", "Robert Frost"}
     //   {"If you tell the truth, you don't have to remember anything.", "Mark Twain"}
     //   {"I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.", "Maya Angelou"}
