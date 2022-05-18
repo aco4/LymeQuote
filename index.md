@@ -68,7 +68,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("I was happy yesterday because I did not take a picture with crazy Julia for Human Encyclopedia.", "Minh Tran", 2022, "Julia Krazcek does not know anything except for classical music, literature, and diabetes."),
       new Quote("High school is a mega-pint of boring", "Josh Birch", 2022),
       new Quote("Sometimes, you just got to send it.", "Ryan Kohler", 2022),
-      new Quote("Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.", "Master Oogway", null, "From Kung Fu Panda")
+      new Quote("Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.", "Master Oogway", null, "From Kung Fu Panda"),
 
       new Quote(
         "Millions of people worldwide suffer from autoimmune disease and chronic illness. What is fueling this 21st-century pandemic?",
