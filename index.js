@@ -1,6 +1,8 @@
 import quotes from './quotes.json' assert {type: 'json'};
-
+alert("hi");
+alert(quotes);
 const quotes = JSON.parse(quotes);
+alert(quotes);
 
 // class Quote {
 //     constructor(text = null, author = null, date = null, description = null) {
