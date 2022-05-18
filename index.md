@@ -53,12 +53,6 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("Big fat hairy deal lasagna time funny large orange cat","Garfield"),
       new Quote("allah cat allah cat","allah cat"),
       new Quote("THEY HIT THE PENTAGON", "Zach Hadel"),
-      new Quote(
-        "Millions of people worldwide suffer from autoimmune disease and chronic illness. What is fueling this 21st-century pandemic?",
-        "Chronic",
-        2020,
-        "As Dr. Steven Philips, MD reveals in his novel, 'Chronic', there is compelling evidence that Lyme disease is also the source of chronic disorders such as autoimmune conditions."
-        ),
       new Quote("Matt loves skin", "Anthony Gu", 2022),
       new Quote("Early bird gets the worm, but I am wolf not lion or tiger, I don't perform in circus", "Rich Richman McRibRicher", 1999),
       new Quote("It is only when mosquito land on your balls that you realize there is a way to solve problems without using violence.", "Confucius"),
@@ -70,6 +64,14 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
         "Mr. Benfield",
         2022,
         "That's what the purpose of the mask is."
+      ),
+      new Quote("I was happy yesterday because I did not take a picture with crazy Julia for Human Encyclopedia.", "Minh Tran", 2022, "Julia Krazcek does not know anything except for classical music, literature, and diabetes.")
+
+      new Quote(
+        "Millions of people worldwide suffer from autoimmune disease and chronic illness. What is fueling this 21st-century pandemic?",
+        "Chronic",
+        2020,
+        "As Dr. Steven Philips, MD reveals in his novel, 'Chronic', there is compelling evidence that Lyme disease is also the source of chronic disorders such as autoimmune conditions."
         ),
       new Quote(
         "Nothing is more agonizing than feeling inexplicably sick.",
