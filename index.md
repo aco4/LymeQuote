@@ -46,7 +46,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("Live as if you were to die tomorrow. Learn as if you were to live forever.", "Mahatma Gandhi"),
       new Quote("We accept the love we think we deserve.", "Stephen Chbosky", null, "From The Perks of Being a Wallflower"),
       new Quote("Without music, life would be a mistake.", "Friedrich Nietzsche", null, "From Twilight of the Idols"),
-      new Quote("I am so clever that sometimes I don't understand a single word of what I am saying.", "Oscar Wilde", "From The Happy Prince and Other Stories"),
+      new Quote("I am so clever that sometimes I don't understand a single word of what I am saying.", "Oscar Wilde", null, "From The Happy Prince and Other Stories"),
       new Quote("To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.", "Ralph Waldo Emerson"),
 
       new Quote("Can't fly an airplane while looking down","Logan Bennett"),
