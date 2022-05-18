@@ -73,6 +73,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("High school is a mega-pint of boring", "Josh Birch", 2022),
       new Quote("Sometimes, you just got to send it.", "Ryan Kohler", 2022),
       new Quote("Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.", "Master Oogway", null, "From Kung Fu Panda"),
+      new Quote("Let the world burn", "Eric Huang", 2022),
 
 
 
