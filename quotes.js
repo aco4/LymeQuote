@@ -18,11 +18,25 @@ quotes =
         "author": "Buddha",
         "date": null,
         "description": null
+    },
+    {
+        "text": "Wisdom begins in wonder.",
+        "author": "Socrates",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "Those who do not remember the past are condemned to repeat it.",
+        "author": "George Santayana",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "It is foolish to be convinced without evidence, but it is equally foolish to refuse to be convinced by real evidence",
+        "author": "Upton Sinclair",
+        "date": null,
+        "description": null
     }
-    // {
-    //     "Wisdom begins in wonder.","Socrates"}
-    //   {"Those who do not remember the past are condemned to repeat it.", "George Santayana"}
-    //   {"It is foolish to be convinced without evidence, but it is equally foolish to refuse to be convinced by real evidence", "Upton Sinclair"}
 
 
 
