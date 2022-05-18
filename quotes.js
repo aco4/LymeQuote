@@ -89,39 +89,144 @@ quotes =
         "author": "Maya Angelou",
         "date": null,
         "description": null
+    },
+    {
+        "text": "A friend is someone who knows all about you and still loves you.",
+        "author": "Elbert Hubbard",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+        "author": "Oscar Wilde",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "Always forgive your enemies; nothing annoys them so much.",
+        "author": "Oscar Wilde",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+        "author": "Mahatma Gandhi",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "We accept the love we think we deserve.",
+        "author": "Stephen Chbosky",
+        "date": null,
+        "description": "From The Perks of Being a Wallflower"
+    },
+    {
+        "text": "Without music, life would be a mistake.",
+        "author": "Friedrich Nietzsche",
+        "date": null,
+        "description": "From Twilight of the Idols"
+    },
+    {
+        "text": "I am so clever that sometimes I don't understand a single word of what I am saying.",
+        "author": "Oscar Wilde",
+        "date": null,
+        "description": "From The Happy Prince and Other Stories"
+    },
+    {
+        "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "author": "Ralph Waldo Emerson"
+    },
+
+
+
+    {
+        "text": "Can't fly an airplane while looking down",
+        "author": "Logan Bennett",
+        "date": 2022,
+        "description": "Logan gave this quote during FOT"
+    },
+    {
+        "text": "Big fat hairy deal lasagna time funny large orange cat",
+        "author": "Garfield"
+    },
+    {
+        "text": "allah cat allah cat",
+        "author": "allah cat",
+        "date": null,
+        "description": "allah cat"
+    },
+    {
+        "text": "THEY HIT THE PENTAGON",
+        "author": "Zach Hadel",
+        "date": null,
+        "description": "This is from a youtube video"
+    },
+    {
+        "text": "Matt loves skin",
+        "author": "Anthony Gu",
+        "date": 2022,
+        "description": "That's why he joined the group chat, he was attracted by the furby skin"
+    },
+    {
+        "text": "Early bird gets the worm, but I am wolf not lion or tiger, I don't perform in circus",
+        "author": "Rich Richman McRibRicher",
+        "date": 1999,
+    },
+    {
+        "text": "It is only when mosquito land on your balls that you realize there is a way to solve problems without using violence.",
+        "author": "Confucius",
+        "date": null,
+        "description": "Confucius did not actually say this (probably)."
+    },
+    {
+        "text": "I'd rather be hated for who I am than loved for who I am not.",
+        "author":"Kurt Cobain"
+    },
+    {
+        "text": "Squangle beedorp wingle jangle bango bongo dagy your dad is now lady",
+        "author":"Matthew Schulte",
+        "date": 2022,
+        "description": "Haha loser u got trolled ur dad is actually man still quangle dongle i will find your location and fondle"
+    },
+    {
+        "text": "I'm not a senior yet; however,",
+        "author":"Gabe Newell",
+        "date": 2022,
+        "description": "I should have burned this place down while I had the chance"
+    },
+    {
+        "text": "I miss the mask because I could say whatever I wanted to say and nobody could see me say it.",
+        "author": "Mr. Benfield",
+        "date": 2022,
+        "description": "That's what the purpose of the mask is. (This quote is in reference to the lifted mask mandate following the COVID-19 pandemic)"
+    },
+    {
+        "text": "I was happy yesterday because I did not take a picture with crazy Julia for Human Encyclopedia.",
+        "author":"Minh Tran",
+        "date": 2022,
+        "description": "Julia Krazcek does not know anything except for classical music, literature, and diabetes."
+    },
+    {
+        "text": "High school is a mega-pint of boring",
+        "author":"Josh Birch",
+        "date": 2022,
+    },
+    {
+        "text": "Sometimes, you just got to send it.",
+        "author":"Ryan Kohler",
+        "date": 2022,
+    },
+    {
+        "text": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.",
+        "author":"Master Oogway",
+        "date": null,
+        "description": "From Kung Fu Panda"
+    },
+    {
+        "text": "Let the world burn",
+        "author":"Eric Huang",
+        "date": 2022
     }
-    //   {"A friend is someone who knows all about you and still loves you.", "Elbert Hubbard"}
-    //   {"To live is the rarest thing in the world. Most people exist, that is all.", "Oscar Wilde"}
-    //   {"Always forgive your enemies; nothing annoys them so much.", "Oscar Wilde"}
-    //   {"Live as if you were to die tomorrow. Learn as if you were to live forever.", "Mahatma Gandhi"}
-    //   {"We accept the love we think we deserve.", "Stephen Chbosky", null, "From The Perks of Being a Wallflower"}
-    //   {"Without music, life would be a mistake.", "Friedrich Nietzsche", null, "From Twilight of the Idols"}
-    //   {"I am so clever that sometimes I don't understand a single word of what I am saying.", "Oscar Wilde", null, "From The Happy Prince and Other Stories"}
-    //   {"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.", "Ralph Waldo Emerson"}
-
-
-
-    //   {"Can't fly an airplane while looking down","Logan Bennett", 2022, "Logan gave this quote during FOT"}
-    //   {"Big fat hairy deal lasagna time funny large orange cat","Garfield"}
-    //   {"allah cat allah cat","allah cat", null, "allah cat"}
-    //   {"THEY HIT THE PENTAGON", "Zach Hadel", null, "This is from a youtube video"}
-    //   {"Matt loves skin", "Anthony Gu", 2022, "That's why he joined the group chat, he was attracted by the furby skin"}
-    //   {"Early bird gets the worm, but I am wolf not lion or tiger, I don't perform in circus", "Rich Richman McRibRicher", 1999}
-    //   {"It is only when mosquito land on your balls that you realize there is a way to solve problems without using violence.", "Confucius", null, "Confucius did not actually say this (probably)."}
-    //   {"I'd rather be hated for who I am than loved for who I am not.", "Kurt Cobain"}
-    //   {"Squangle beedorp wingle jangle bango bongo dagy your dad is now lady", "Matthew Schulte", 2022, "Haha loser u got trolled ur dad is actually man still quangle dongle i will find your location and fondle"}
-    //   {"I'm not a senior yet; however,", "Gabe Newell", 2022, "I should have burned this place down while I had the chance"}
-    //   {
-    //     "I miss the mask because I could say whatever I wanted to say and nobody could see me say it.",
-    //     "Mr. Benfield",
-    //     2022,
-    //     "That's what the purpose of the mask is. (This quote is in reference to the lifted mask mandate following the COVID-19 pandemic)"
-    //   }
-    //   {"I was happy yesterday because I did not take a picture with crazy Julia for Human Encyclopedia.", "Minh Tran", 2022, "Julia Krazcek does not know anything except for classical music, literature, and diabetes."}
-    //   {"High school is a mega-pint of boring", "Josh Birch", 2022}
-    //   {"Sometimes, you just got to send it.", "Ryan Kohler", 2022}
-    //   {"Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.", "Master Oogway", null, "From Kung Fu Panda"}
-    //   {"Let the world burn", "Eric Huang", 2022}
 
 
 
