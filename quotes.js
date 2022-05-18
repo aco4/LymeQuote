@@ -1,4 +1,3 @@
-alert('hi')
 quotes =
 [
     {
@@ -72,10 +71,25 @@ quotes =
         "author": "Mahatma Gandhi",
         "date": null,
         "description": null
+    },
+    {
+        "text": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "If you tell the truth, you don't have to remember anything.",
+        "author": "Mark Twain",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+        "author": "Maya Angelou",
+        "date": null,
+        "description": null
     }
-    //   {"In three words I can sum up everything I've learned about life: it goes on.", "Robert Frost"}
-    //   {"If you tell the truth, you don't have to remember anything.", "Mark Twain"}
-    //   {"I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.", "Maya Angelou"}
     //   {"A friend is someone who knows all about you and still loves you.", "Elbert Hubbard"}
     //   {"To live is the rarest thing in the world. Most people exist, that is all.", "Oscar Wilde"}
     //   {"Always forgive your enemies; nothing annoys them so much.", "Oscar Wilde"}
