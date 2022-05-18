@@ -34,7 +34,7 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
 
     document.getElementById("quote").innerHTML = quote;
     document.getElementById("description").innerHTML = description;
-
-  random_quote();
   }
+  
+  random_quote();
 </script>
