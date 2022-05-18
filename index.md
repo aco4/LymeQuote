@@ -31,6 +31,8 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("Those who do not remember the past are condemned to repeat it.", "George Santayana"),
       new Quote("It is foolish to be convinced without evidence, but it is equally foolish to refuse to be convinced by real evidence", "Upton Sinclair"),
 
+
+
       new Quote("Be yourself; everyone else is already taken.", "Oscar Wilde"),
       new Quote("I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.", "Marilyn Monroe"),
       new Quote("Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.", "Albert Einstein"),
@@ -49,13 +51,15 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
       new Quote("I am so clever that sometimes I don't understand a single word of what I am saying.", "Oscar Wilde", null, "From The Happy Prince and Other Stories"),
       new Quote("To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.", "Ralph Waldo Emerson"),
 
-      new Quote("Can't fly an airplane while looking down","Logan Bennett"),
+
+
+      new Quote("Can't fly an airplane while looking down","Logan Bennett", 2022, "Logan gave this quote during FOT"),
       new Quote("Big fat hairy deal lasagna time funny large orange cat","Garfield"),
-      new Quote("allah cat allah cat","allah cat"),
-      new Quote("THEY HIT THE PENTAGON", "Zach Hadel"),
-      new Quote("Matt loves skin", "Anthony Gu", 2022),
+      new Quote("allah cat allah cat","allah cat", null, "allah cat"),
+      new Quote("THEY HIT THE PENTAGON", "Zach Hadel", null, "This is from a youtube video"),
+      new Quote("Matt loves skin", "Anthony Gu", 2022, "That's why he joined the group chat, he was attracted by the furby skin"),
       new Quote("Early bird gets the worm, but I am wolf not lion or tiger, I don't perform in circus", "Rich Richman McRibRicher", 1999),
-      new Quote("It is only when mosquito land on your balls that you realize there is a way to solve problems without using violence.", "Confucius"),
+      new Quote("It is only when mosquito land on your balls that you realize there is a way to solve problems without using violence.", "Confucius", null, "Confucius did not actually say this (probably)."),
       new Quote("I'd rather be hated for who I am than loved for who I am not.", "Kurt Cobain"),
       new Quote("Squangle beedorp wingle jangle bango bongo dagy your dad is now lady", "Matthew Schulte", 2022, "Haha loser u got trolled ur dad is actually man still quangle dongle i will find your location and fondle"),
       new Quote("I'm not a senior yet; however,", "Gabe Newell", 2022, "I should have burned this place down while I had the chance"),
@@ -63,12 +67,14 @@ LymeQuote is a project created for the Biomedical Science program at Bel Air Hig
         "I miss the mask because I could say whatever I wanted to say and nobody could see me say it.",
         "Mr. Benfield",
         2022,
-        "That's what the purpose of the mask is."
+        "That's what the purpose of the mask is. (This quote is in reference to the lifted mask mandate following the COVID-19 pandemic)"
       ),
       new Quote("I was happy yesterday because I did not take a picture with crazy Julia for Human Encyclopedia.", "Minh Tran", 2022, "Julia Krazcek does not know anything except for classical music, literature, and diabetes."),
       new Quote("High school is a mega-pint of boring", "Josh Birch", 2022),
       new Quote("Sometimes, you just got to send it.", "Ryan Kohler", 2022),
       new Quote("Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.", "Master Oogway", null, "From Kung Fu Panda"),
+
+
 
       new Quote(
         "Millions of people worldwide suffer from autoimmune disease and chronic illness. What is fueling this 21st-century pandemic?",
