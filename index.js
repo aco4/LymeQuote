@@ -21,6 +21,8 @@ function output_quote(index) {
   if (quotes[index].date != null) {
     quote = quote + ", " + quotes[index].date;
   }
+
+  return quote
 }
 
 function output_description(index) {
@@ -29,6 +31,8 @@ function output_description(index) {
   if (quotes[index].description != null) {
     description = quotes[index].description;
   }
+
+  return description
 }
 
 function mulberry32(a) {
