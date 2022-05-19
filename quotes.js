@@ -4,7 +4,7 @@ quotes =
         "text": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
         "author": "Edwin Hubbel Chapin",
         "date": null,
-        "description": ""
+        "description": null
     },
     {
         "text": "Education is the most powerful weapon which you can use to change the world.",
@@ -36,6 +36,53 @@ quotes =
         "date": null,
         "description": null
     },
+    {
+        "text": "Truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.",
+        "author": "Winston Churchill",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "The only thing that interferes with my learning is my education.",
+        "author": "Albert Einstein",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "If you listen long enough, the patient will give you the diagnosis.",
+        "author": "Sir William Osler",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "Healing is a matter of time, but it is sometimes also a matter of opportunity.",
+        "author": "Hippocrates",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "Health is a crown that the healthy wear, but only the sick can see it",
+        "author": null,
+        "date": null,
+        "description": "Egyptian proverb"
+    },
+    {
+        "text": "There's a crack in everything. That's how the light gets in.",
+        "author": "Lenoard Cohen",
+        "date": null,
+        "description": null
+    },
+    {
+        "text": "The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy.",
+        "author": "Kalu Ndukwe Kalu",
+        "date": null,
+        "description": null
+    },
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
     {
         "text": "Be yourself; everyone else is already taken.",
         "author": "Oscar Wilde",
@@ -137,7 +184,9 @@ quotes =
         "author": "Ralph Waldo Emerson"
     },
 
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     {
         "text": "Can't fly an airplane while looking down",
@@ -226,62 +275,64 @@ quotes =
         "text": "Let the world burn",
         "author":"Eric Huang",
         "date": 2022
+    },
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    {
+        "text": "Millions of people worldwide suffer from autoimmune disease and chronic illness. What is fueling this 21st-century pandemic?",
+        "author": "Chronic",
+        "date": "2020",
+        "description": "As Dr. Steven Philips, MD reveals in his novel, 'Chronic', there is compelling evidence that Lyme disease is also the source of chronic disorders such as autoimmune conditions."
+    },
+    {
+        "text": "Nothing is more agonizing than feeling inexplicably sick.",
+        "author": "Dr. Steven Philips and Dana Parish",
+        "date": 2020,
+        "description": "This quote was excerpted from a novel titled 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again.'"
+    },
+    {
+        "text": "As much as we love nature, it's become a veritable hazard zone throughout the world.",
+        "author": "Dr. Steven Philips and Dana Parish",
+        "date": "2020",
+        "description": "Thanks to climate change, disease-carrying bugs have exploded in number and spread to places they could not have previously survived. For example, ticks, 50% of which carry pathogens (Dr. Steven Philips, MD). Ticks are especially dangerous for their likelihood to cause Lyme disease, a complex and poorly understood disease that can then cause autoimmune reactions. To read more about Lyme disease and its link to autoimmune disorders, read Dr. Steven Philips' novel, 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Health Again'."
+    },
+    {
+        "text": "[Jeffrey Wigand] became an informant for the media in the mid-1990s, exposing how Big Tobacco... promoted [cigarettes] knowing they were addictive and carcinogenic.",
+        "author": "Dr. Steven Philips and Dana Parish",
+        "date": "2020",
+        "description": "There is compelling evidence that Lyme disease is also the source of chronic disorders such as autoimmune conditions. Dr. Steven Philips, MD and Dana Parish explore this topic in their novel, 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again'. One of their main topics is how the medical community shuns and silences Lyme disease and its victims. Why? Because immunosuppresants are expensive — and profitable."
+    },
+    {
+        "text": "Lyme is known as The Great Imitator. But we consider Lyme, or more accurately Lyme+, \"The Great Cause.\"",
+        "author": "Dr. Steven Philips and Dana Parish",
+        "date": "2020",
+        "description": "Lyme disease is a bacterial infection commonly transmitted through bug bites. However, Lyme disease is often accompanied by several other diseases — this cocktail of infections is what Dr. Steven Philips calls \"Lyme+.\" But calling these infections \"imitators\" misrepresents the truth: these infections actually cause a very wide range of chronic and autoimmune diseases."
+    },
+    {
+        "text": "The vast majority of people also view Lyme as a problem confined to certain areas of the world, notably the northeastern U.S. Wrong. Wrong.",
+        "author": "Dr. Steven Philips and Dana Parish",
+        "date": 2020,
+        "description": "Lyme disease has been reported in all 50 states except Hawaii. Additionally, Lyme disease is not just a \"tick-borne illness\"; it can also be transmitted via fleas, lice, sand flies, spiders, ants, even cat scratches/bites. Dr. Steven Philips and Dana Parish explore Lyme disease further in their eye-opening novel, 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again'"
+    },
+    {
+        "text": "Semantics guide care.",
+        "author": "Dr. Steven Philips and Dana Parish",
+        "date": "2020",
+        "description": "This quote was excerpted from a novel titled 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again.' This novel reveals many truths about Lyme disease, including the truth about \"Post-Treatment Lyme Disease Syndrome.\" The particular word choice of this phrase suggests that the symptoms after short-term Lyme therapy are not caused by an ongoing, unkilled infection — which is not the truth."
+    },
+    {
+        "text": "No, you're not crazy. You know your body. You know something is not right and you're not getting the right attention. Follow your gut.",
+        "author": "Dr. Steven Philips and Dana Parish",
+        "date": "2020",
+        "description": "This quote was excerpted from a novel titled 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again.' In this novel, Dr. Steven Philips, MD and Dana Parish provide compelling evidence that chronic Lyme disease exists, even when doctors around the world insist otherwise."
+    },
+    {
+        "text": "Arrogance frequently goes hand in hand with ignorance.",
+        "author": "Dr. Steven Philips and Dana Parish",
+        "date": "2020",
+        "description": "This quote was excerpted from a novel titled 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again.' In this novel, Dr. Steven Philips, MD and Dana Parish describe how the medical world suffers from the same vices as other areas of life. In this particular case, how many doctors in the medical world refuse to believe that Lyme disease can cause autoimmune disorders such as rheumatoid arthritis."
     }
-
-
-
-    //   {
-    //     "Millions of people worldwide suffer from autoimmune disease and chronic illness. What is fueling this 21st-century pandemic?",
-    //     "Chronic",
-    //     2020,
-    //     "As Dr. Steven Philips, MD reveals in his novel, 'Chronic', there is compelling evidence that Lyme disease is also the source of chronic disorders such as autoimmune conditions."
-    //     }
-    //   {
-    //     "Nothing is more agonizing than feeling inexplicably sick.",
-    //     "Dr. Steven Philips and Dana Parish",
-    //     2020,
-    //     "This quote was excerpted from a novel titled 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again.'"
-    //     }
-    //   {
-    //     "As much as we love nature, it's become a veritable hazard zone throughout the world.",
-    //     "Dr. Steven Philips and Dana Parish",
-    //     2020,
-    //     "Thanks to climate change, disease-carrying bugs have exploded in number and spread to places they could not have previously survived. For example, ticks, 50% of which carry pathogens (Dr. Steven Philips, MD). Ticks are especially dangerous for their likelihood to cause Lyme disease, a complex and poorly understood disease that can then cause autoimmune reactions. To read more about Lyme disease and its link to autoimmune disorders, read Dr. Steven Philips' novel, 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Health Again'."
-    //     }
-    //   {
-    //     "[Jeffrey Wigand] became an informant for the media in the mid-1990s, exposing how Big Tobacco... promoted [cigarettes] knowing they were addictive and carcinogenic.",
-    //     "Dr. Steven Philips and Dana Parish",
-    //     2020,
-    //     "There is compelling evidence that Lyme disease is also the source of chronic disorders such as autoimmune conditions. Dr. Steven Philips, MD and Dana Parish explore this topic in their novel, 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again'. One of their main topics is how the medical community shuns and silences Lyme disease and its victims. Why? Because immunosuppresants are expensive — and profitable."
-    //   }
-    //   {
-    //     "Lyme is known as The Great Imitator. But we consider Lyme, or more accurately Lyme+, \"The Great Cause.\"",
-    //     "Dr. Steven Philips and Dana Parish",
-    //     2020,
-    //     "Lyme disease is a bacterial infection commonly transmitted through bug bites. However, Lyme disease is often accompanied by several other diseases — this cocktail of infections is what Dr. Steven Philips calls \"Lyme+.\" But calling these infections \"imitators\" misrepresents the truth: these infections actually cause a very wide range of chronic and autoimmune diseases."
-    //   }
-    //   {
-    //     "The vast majority of people also view Lyme as a problem confined to certain areas of the world, notably the northeastern U.S. Wrong. Wrong.",
-    //     "Dr. Steven Philips and Dana Parish",
-    //     2020,
-    //     "Lyme disease has been reported in all 50 states except Hawaii. Additionally, Lyme disease is not just a \"tick-borne illness\"; it can also be transmitted via fleas, lice, sand flies, spiders, ants, even cat scratches/bites. Dr. Steven Philips and Dana Parish explore Lyme disease further in their eye-opening novel, 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again'"
-    //   }
-    //   {
-    //     "Semantics guide care.",
-    //     "Dr. Steven Philips and Dana Parish",
-    //     2020,
-    //     "This quote was excerpted from a novel titled 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again.' This novel reveals many truths about Lyme disease, including the truth about \"Post-Treatment Lyme Disease Syndrome.\" The particular word choice of this phrase suggests that the symptoms after short-term Lyme therapy are not caused by an ongoing, unkilled infection — which is not the truth."
-    //   }
-    //   {
-    //     "No, you're not crazy. You know your body. You know something is not right and you're not getting the right attention. Follow your gut.",
-    //     "Dr. Steven Philips and Dana Parish",
-    //     2020,
-    //     "This quote was excerpted from a novel titled 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again.' In this novel, Dr. Steven Philips, MD and Dana Parish provide compelling evidence that chronic Lyme disease exists, even when doctors around the world insist otherwise."
-    //   }
-    //   {
-    //     "Arrogance frequently goes hand in hand with ignorance.",
-    //     "Dr. Steven Philips and Dana Parish",
-    //     2020,
-    //     "This quote was excerpted from a novel titled 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again.' In this novel, Dr. Steven Philips, MD and Dana Parish describe how the medical world suffers from the same vices as other areas of life. In this particular case, how many doctors in the medical world refuse to believe that Lyme disease can cause autoimmune disorders such as rheumatoid arthritis."
-    //   )
 ]
