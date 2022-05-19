@@ -35,6 +35,7 @@ Lyme disease is a bacterial infection commonly transmitted through bug bites. It
 - The symptoms are varied and not understood, causing neurological, musculoskeletal, gastrointestinal, and cardiovascular illness;
 - No one is immune and there are no vaccines;
 - Official medical guidelines are outdated and negligent, making diagnosing and treating Lyme impossible unless you see a specialist;
+
 but most notably,
 - the astounding lack of awareness of Lyme disease’s link to autoimmune disorders, in both the public and in the medical community.
 
@@ -58,6 +59,8 @@ Upon reading it, I was blown away by the reality of the situation. I was moved s
 I was surprised by how well-sourced Chronic was. Published in 2020 and containing hundreds of cited studies, it described in extreme detail everything I could ever wish to know about Lyme disease, backed up with bulletproof science.
 
 As such, I was able to gather data on Lyme disease and its link to autoimmune disorders primarily from my reading of this medical novel.
+
+![Chronic](https://yt3.ggpht.com/a/AATXAJyNdgImEzH7Uv06seR3msPuXrxA5rkcuyYrkA=s900-c-k-c0xffffffff-no-rj-mo)
 
 ### Well-Covered
 This book thoroughly revealed to me how Lyme disease is truly the greatest medical crisis of the 21st century, from both a biological and political perspective. This book covered:
