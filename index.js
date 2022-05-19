@@ -22,7 +22,7 @@ function output_quote(index) {
     quote = quote + ", " + quotes[index].date;
   }
 
-  return quote
+  return quote;
 }
 
 function output_description(index) {
@@ -32,7 +32,7 @@ function output_description(index) {
     description = quotes[index].description;
   }
 
-  return description
+  return description;
 }
 
 function mulberry32(a) {
