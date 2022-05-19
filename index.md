@@ -5,13 +5,13 @@
 
 LymeQuote is a project created for the Biomedical Science program at Bel Air High School.
 
-It is a website made to educate as many people as possible on Lyme disease and the autoimmune pandemic.
+<!-- It is a website made to educate as many people as possible on Lyme disease and the autoimmune pandemic.
 
-The website operates under the premise of a quote sharing website, where users can browse quotes, save their favorites (COMING SOON), and share them with others (COMING SOON). People can even create their own (COMING SOON)!
+The website operates under the premise of a quote sharing website, where users can browse quotes, save their favorites (COMING SOON), and share them with others (COMING SOON). People can even create their own (COMING SOON)! -->
 
 
 
-# Overview
+<!-- # Overview
 
 ### An Alarming Problem
 Lyme disease is the fastest growing vector-borne infectious disease in the United States. By 2050, estimates predict 12% of the U.S. will be affected.
@@ -115,7 +115,7 @@ As a solution, I developed LymeQuote, an engaging website intended to educate as
 - To Mr. Weeks, for being understanding, compassionate, and always an encouragement to keep pushing.
 - To Ms. Hamilton, for guiding us through our struggles and being an empathetic person.
 - To the users of Stack Overflow, who, thanks to their generous sharing of knowledge, saved me many hours of struggle.
-- To GitHub, for providing free hosting of my website, as well as excellent documentation.
+- To GitHub, for providing free hosting of my website, as well as excellent documentation. -->
 
 
 
