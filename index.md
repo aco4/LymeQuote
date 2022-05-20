@@ -2,9 +2,9 @@
 
 LymeQuote is a project created for the Biomedical Science program at Bel Air High School.
 
-<!-- It is a website made to educate as many people as possible on Lyme disease and the autoimmune pandemic.
+It is a website made to educate as many people as possible on Lyme disease and the autoimmune pandemic.
 
-The website operates under the premise of a quote sharing website, where users can browse quotes, save their favorites (COMING SOON), and share them with others (COMING SOON). People can even create their own (COMING SOON)! -->
+<!-- The website operates under the premise of a quote sharing website, where users can browse quotes, save their favorites (COMING SOON), and share them with others (COMING SOON). People can even create their own (COMING SOON)! -->
 
 
 
