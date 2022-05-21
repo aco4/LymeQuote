@@ -18,9 +18,9 @@
 
     <header class="page-header" role="banner">
       
-      <a class="btn" onClick="random_quote()">Quote!</a>
-      <h1 class="project-name" id="quote">An error occurred.</h1>
+      <h1 class="project-name" id="quote" overflow="scroll">An error occurred.</h1>
       <h2 class="project-tagline" id="description">Please notify anthonygu@student.hcps.org</h2>
+      <a class="btn" onClick="random_quote()">Quote!</a>
       
       <!-- <h1 class="project-name" id="quote">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
       <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
@@ -57,17 +57,12 @@
           <br>
           <label>
             Quote:
-            <textarea name="quote"></textarea>
+            <textarea name="quote" placeholder="Early bird gets the worm - Me, 2022" rows="1"></textarea>
           </label>
           <br>
           <label>
-            Quote author (optional):
-            <textarea name="author"></textarea>
-          </label>
-          <br>
-          <label>
-            Quote context (optional):
-            <textarea name="context"></textarea>
+            Context:
+            <textarea name="context" placeholder="This quote already exists but I needed an example quote." rows="1"></textarea>
           </label>
           <br>
           <button type="submit">Send</button>

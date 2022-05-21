@@ -22,7 +22,7 @@ Chronic does an amazing job revealing the urgent nature of this pandemic, but pu
 
 # Background
 
-_“Perhaps you yourself are among those who have struggled with chronic illness, or strange, migrating symptoms that no one seems to take seriously… your symptoms that were carelessly labeled as ‘autoimmune.’”_
+> “Perhaps you yourself are among those who have struggled with chronic illness, or strange, migrating symptoms that no one seems to take seriously… your symptoms that were carelessly labeled as ‘autoimmune.’”
 
 Today, 24 million Americans are affected by the mysterious “autoimmune disorder” — but this incidence rate is much higher than it should. These strange symptoms are caused by a hidden culprit: Lyme disease.
 
