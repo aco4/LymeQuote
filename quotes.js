@@ -68,7 +68,7 @@ quotes =
     },
     {
         "text": "There's a crack in everything. That's how the light gets in.",
-        "author": "Lenoard Cohen",
+        "author": "Leonard Cohen",
         "date": null,
         "description": null
     },
@@ -345,5 +345,18 @@ quotes =
         "author": "Dr. Steven Philips and Dana Parish",
         "date": "2020",
         "description": "This quote was excerpted from a novel titled 'Chronic: The Hidden Cause of the Autoimmune Pandemic and How to Get Healthy Again.' In this novel, Dr. Steven Philips, MD and Dana Parish describe how the medical world suffers from the same vices as other areas of life. In this particular case, how many doctors in the medical world refuse to believe that Lyme disease can cause autoimmune disorders such as rheumatoid arthritis."
+    }, 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    {
+        "text": "I did not invite you over to my house for wine, just to throw your wife through my coffee table",
+        "author": "Sam Hyde",
+        "date": null,
+        "description": null
     }
+
+    
 ]
