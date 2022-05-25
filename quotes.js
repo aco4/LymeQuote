@@ -368,7 +368,7 @@ quotes =
         "text": "I think you have middle-aged life crisis depression thing.",
         "author": "Unknown psychotherapist",
         "date": null,
-        "description": "Preston Wiles is a first-rank psychiatrist with training from Baylor, Harvard, and Yale. When he came down with Lyme (a bacterial infection prone to causing chronic illness), a psychotherapist told him this."
+        "description": "Preston Wiles came down with Lyme disease, a dangerous bacterial infection prone to causing chronic illness. Multiple doctors failed to diagnosis him correctly. One doctor, a psychotherapist, even told him this."
     },
     {
         "text": "To cure something, isn't it important to know its cause and get to it, rather than mask its symptoms?",
